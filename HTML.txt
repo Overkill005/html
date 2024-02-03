@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>HTML</title>
+</head>
+<body>
+
+<input type="file" value="file" name="file">
+
+<a href="https://sdibhubaneswar.co.in/"> SDI </a>
+<br><br>
+<a href="images/SDI.jpg" > SDI IMAGE </a>
+<br>
+<br>
+<abbr title="HyperText markup language"> HTML </abbr>
+<br><br>
+
+ <acronym title="HTML">  HyperText markup language </acronym>
+
+<br><br>
+
+<address>
+	SDI
+	<br />
+	bbsr 
+	<br />
+	1234567890
+</address>
+
+<br><br>
+  <audio  src="A&V/Audio.mp3"  controls="controls" ></audio> 
+<br><br>
+
+<video src="A&V/video.mp4" controls="controls">
+</video>
+
+<br>
+<br>
+
+<img src="images/SDI.jpg" alt="SDI" />
+<br><br>
+
+<bdo dir="rtl">  SDI  </bdo>
+
+<br><br>
+
+<b> SKIL DEVELOPMENT INSTITUTE</b>
+<br>
+<strong> SKIL DEVELOPMENT INSTITUTE  </strong>
+<br>
+<big> SKIL DEVELOPMENT INSTITUTE </big>
+<br>
+<small> SKIL DEVELOPMENT INSTITUTE </small>
+<br><br>
+
+
+
+ <button >
+<a href="https://www.google.com/"> search</a> </button>
+ <br>
+ 
+
+
+
+<center> SKIL DEVELOPMENT INSTITUTE  </center>
+<br>
+
+<cite> SKIL DEVELOPMENT INSTITUTE</cite> 
+<br>
+
+<em> SKIL DEVELOPMENT INSTITUTE </em>
+<br>
+
+
+ <table border="1px" width="80%" cellspacing="10px" cellpadding="10px">
+	<caption> students </caption>
+	<tr> <th> Roll </th> <th> Name </th> </tr>
+	<tr>  <td> 12 </td>  <td> ABCD </td>  </tr>
+	<tr>  <td> 13 </td>  <td> Rani </td> </tr>
+</table>
+<br><br><br><br>
+
+
+
+rowspan : mergcell row wise
+colspan : mergcell coll wise
+
+
+<table border="1px" cellspacing="0px" width="100%">
+	 <caption>  marks </caption>
+	 <tr> <th rowspan="2"> Math </th> <th> p1 </th> <th> p2 </th></tr>
+	 <tr> <td> 72 </td> <td> 73 </td> </tr>
+	 <tr> <th> Eng</th> <td colspan="2"> 78 </td></tr>
+</table>
+
+
+<dir>
+	<li>dir</li> 
+	<li>menu</li> 
+	<li>ul</li>
+</dir> 
+
+
+         <br><hr>
+
+
+         <input type="checkbox" value="PHP" /> PHP
+         <input type="checkbox" value="JAVA"/>JAVA
+         <input type="checkbox" value="PYTHON"/> PYTHON
+
+
+         <BR>
+         <hr>
+
+         <input type="radio" value="Male" name="k" /> Male
+         <input type="radio"  value="Female"name="k"/> Female
+
+         <br>
+         <hr>
+
+   
+   <hr>
+    
+
+
+
+
+<hr>
+
+
+<input list="k">
+
+<datalist id="k" >
+	<option value="bbsr"></option>
+	<option value="ctc"></option>
+	<option value="puri"></option>
+	<option value="khordha"></option>
+</datalist>
+
+<hr>
+
+<details>
+<summary>courses</summary>
+<p>Learn Python</p>
+<p>Learn PHP</p>
+<p>Learn JAVA</p>
+</details>
+
+<br><br><br>
+
+<hr>
+
+I can <em>not</em> emphasise this enough! 
+
+
+<fieldset>
+	<legend>address</legend>
+	sdi
+	<br />
+	bbsr
+	<br />
+	1254789658
+</fieldset>
+
+<br>
+<br><br>
+ 
+<font color="red" face="cursive" size="44px">  SDI </font>
+
+<br><br>
+
+
+<br><br>
+
+<form method="get" action="contact.html">
+	Email <input type="email" required name="f" />
+	 <br />
+	 
+	  <input type="submit" value="save"  />
+</form>
+<br>
+<br>
+<form method="get" action="contact.html">
+	<input type="hidden" name="pid" value="g996">
+	   <img src="images/SDI.jpg" width="100" height="100">
+	  <input type="submit" value="Buy Now" />
+</form>
+<br>
+<br>
+<br>
+<form method="get" action="contact.html">
+	  <input type="hidden" name="pid" value="h666">
+	   <img src="images/SDI.jpg" width="100" height="100">
+	  <input type="submit" value="Buy Now" />
+</form>
+
+
+
+<br><br>
+I am a <i>SDI</i> student.
+
+<br>
+<br />
+
+<iframe src="contact.html" width="70%" height="500px" name="kk">
+	
+</iframe>
+<br>
+<br>
+
+I am <del>in</del> <ins>at</ins>   bbsr
+
+<br><br>
+Type <kbd>www.google.com </kbd> into your browser address bar.
+<br><br>
+
+<ul>
+		<li> php </li>
+		<li> .NET </li>
+		<li> Python </li>
+		<li> java </li>
+</ul>
+
+<br>
+<br>
+<ul type="circle">
+		<li> php </li>
+		<li> .NET </li>
+		<li> Python </li>
+		<li> java </li>
+</ul>
+
+<br>
+<br>
+<br>
+
+<ol>
+		<li> php </li>
+		<li> .NET </li>
+		<li> Python </li>
+		<li> java </li>
+</ol>
+
+<br>
+<br>
+<br>
+<ol type="i">
+		<li> php </li>
+		<li> .NET </li>
+		<li> Python </li>
+		<li> java </li>
+</ol>
+
+<br>
+<br>
+<br>
+<ul>
+  <li> php </li>	
+		<ul>
+		   <li> HTML </li>
+				<ul> 		
+				    <li> header element </li>
+				     <li> body element </li>
+				</ul>
+				     <li> CSS </li>
+				</ul>
+		<li> .NET </li>
+		<li> Python </li>
+		<li> java </li>
+</ul>
+
+
+<br>
+<br>
+<br>
+<ol start="3">
+    <li> abcd </li>
+    <li> ABCD </li>
+    <li>efgh</li>
+    <li>EFGH</li>
+</ol>
+
+<br>
+<br>
+<br>
+
+
+<select >
+	<option> ABCD </option>
+	<option selected>abcd </option>
+	<option> abcd</option>
+	<option>XYZ</option>
+</select>
+
+<br><br><br>
+
+<select size="3">
+	<option> ABCD </option>
+	<option >abcd </option>
+	<option> abcd</option>
+	<option>XYZ</option>
+</select>
+
+<br><br><br>
+
+<select size="3">
+	<option> ABCD </option>
+	<option >abcd </option>
+	<option> xyz</option>
+	<option>XYZ</option>
+</select>
+
+
+<br><br><br>
+
+<select >
+	<option hidden="hidden">choose..</option>
+	<optgroup label="boys">
+		<option> ABCD </option>
+		<option >abcd </option>
+	</optgroup>
+	<optgroup label="girls">
+		<option> abcd</option>
+		<option>XYZ</option>
+	</optgroup>
+	
+</select>
+<br><br><br>
+
+<pre>
+		Hello
+			Hi
+				Bye
+The brower should display all white space as it was entered.
+</pre>
+
+<br><br><br>
+
+And then she said <q>like... whatever!</q>
+
+
+
+<br><br><br>
+
+
+
+<input type="text" name="" /> <span> should not leave blank !</span>
+<br />
+
+<input type="text" name="" /> <p> should not leave blank !</p>
+
+<br><br><br>
+
+2<sub>nd</sub>
+<br><br><br>
+ 1<sup>st</sup>
+ <br><br><br>
+<textarea rows="5" cols="40">
+  	Textarea provides space for as many characters as you like.
+</textarea>
+ <br><br><br>
+<figure>
+
+The <figure> tag specifies self-contained content, like illustrations, diagrams, photos, code listings, etc.
+<figcaption>
+
+The <figcaption> tag defines a caption for a <figure> element. The <figcaption> element can be placed as the first or last child of the <figure> element.
+ <br><br><br>
+
+<article>
+  	<header>     <h1>Header </h1>  </header>
+  	<p>
+
+SDI  <br/>
+Bhubneswar <br />
+ </p>
+<footer><h1>footer  </h1> </footer>
+</article>
+ <br><br><br>
+
+ i am at <mark> SDI </mark>
+
+ <br>
+ <meter min="10" max="400" value="100"></meter>
+ <br>
+ <br>
+ <marquee direction="up" width="200" height="200" onmouseover="this.stop()" onmouseout="this.start()"> <h1> SDI</h1>  </marquee>
+ <br>
+ <nav>
+  <a href="/html/">HTML</a> |
+  <a href="/html5/">HTML5</a> |
+  <a href="/css/">CSS</a> |
+  <a href="/css3/">CSS3</a> |
+  <a href="/js/">JavaScript</a>
+</nav>
+Downloading progress:<progress value="50" max="100" >
+<br>
+</body>
+</html>
